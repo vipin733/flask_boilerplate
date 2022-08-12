@@ -37,5 +37,3 @@ docker-compose up
 ```
 
 [http://localhost:5003/api/v1/home](http://localhost:5003/api/v1/home)
-
-
